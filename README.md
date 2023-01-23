@@ -1,2 +1,2 @@
-# SpringBoot-Exerc-cios
+# SpringBoot-Exercícios
 Exe das aulas 
